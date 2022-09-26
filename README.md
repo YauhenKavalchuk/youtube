@@ -71,8 +71,11 @@ MongoDB, mongoose, Node.js, express, nodemon, Compass, Postman, MongoDB Atlas
 |Крипта|Номер кошелька|
 |--------|-----------|
 |BTC [Bitcoin]|`13c6UUaHS6gjPKRaXWYP42W1cxynDaFzeM`|
+|ETH [ERC20]|`0x93dffd7d884d2606a7feefd4bb87e68834ef7fb0`|
 |Tether [ERC20]|`0x93dffd7d884d2606a7feefd4bb87e68834ef7fb0`|
 |Tether [TRC20]|`TTijUuGhQxxgkfrV3ZaG4pvoRPFpojUu53`|
+|TRX [TRC20]|`TTijUuGhQxxgkfrV3ZaG4pvoRPFpojUu53`|
+|TRX [BEP20]|`0x93dffd7d884d2606a7feefd4bb87e68834ef7fb0`|
 
 **Если в списке кошельков вы не нашли нужной вам криптовалюты, или сети - свяжитесь со мной я дам вам все необходимы данные!**
 
