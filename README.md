@@ -37,7 +37,7 @@ MongoDB, mongoose, Node.js, express, nodemon, Compass, Postman, MongoDB Atlas
 
 ---
 
-### Как поддержать канал и курс:
+### Как получить доступ к курсу:
 
 ---
 
