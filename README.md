@@ -42,7 +42,7 @@ MongoDB, mongoose, Node.js, express, nodemon, Compass, Postman, MongoDB Atlas
 ---
 
 #### 1. Стать YouTube-спонсором:
-[Перейдя по ссылке][sponsor] и став спонсором уровень **"Middle"** или **"Senior"**.
+[Перейдя по ссылке][sponsor] и став спонсором уровеня **"Middle"** или **"Senior"**.
 
 ---
 
