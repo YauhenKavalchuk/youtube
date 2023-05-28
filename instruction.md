@@ -17,5 +17,7 @@ _P.S. внимательно ознакомьтесь с бонусами дос
 Воспользоваться прямой ссылкой: [YouTube-спонсорство][sponsor]
 
 Если вы **не видите** кнопку, значит данная функция **не доступна** в вашем регионе.
+В этом случае можно воспользоваться [вариантом с криптой (пункт #4)][sponsoring].
 
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
+[sponsoring]: https://github.com/YauhenKavalchuk/youtube/blob/main/sponsoring.md
