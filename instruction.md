@@ -32,7 +32,7 @@
 |--------|-----------|
 |Tether [ERC20]|`0xc1254d121E427c362d29932a0Fa69Ea0c33F820e`|
 |Tether [TRC20]|`THsvgM1yrPMX5xJAX71VjTchs4hfHgtiX7`|
-|BTC [Bitcoin]|`bc1qtpaluw56neut5l3eje9wax7m5trk3nfj9p326a`|
+|BTC [Bitcoin]|`13c6UUaHS6gjPKRaXWYP42W1cxynDaFzeMВ`|
 |ETH [ERC20]|`0xc1254d121E427c362d29932a0Fa69Ea0c33F820e`|
 
 **Если вы не нашли нужной криптовалюты/сети - свяжитесь со мной в [Telegram][telegram] и я отправлю необходимы данные!**
