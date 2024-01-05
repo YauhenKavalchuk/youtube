@@ -4,20 +4,25 @@
 
 ---
 
+#### 1. Стать YouTube-спонсором:
+[Перейдите по ссылке][sponsor] и станьте спонсором уровня **"Junior"**, **"Middle"** или **"Senior"**.
+Если при клике на ссылку в профиле канала вы не видите кнопку "Спонсировать", значит данная функция **не доступна** в вашем регионе.
+И единсвтенный вариант в этом случае - крипта.
+
+_P.S. внимательно ознакомьтесь с бонусами доступными для каждого уровня._
+
+---
+
+#### 2. Перевести крипту используя BestChange:
+Вам **не нужен** ни криптокошелёк, ни криптовалюта, ни особые знания в этом.
+Это просто обычный перевод через сервис BestChange ([как использовать сервис](https://youtu.be/hgx0IScTiQM)).
+
 ### Порядок:
 1. Выбираете один из подходящих вариантов оплаты (BestChange, или Binance)
 2. Вносите **разовую оплату в размере 60$** (доступ открывается на 1 год, так что это 5$ в месяц)
 3. Связываетесь со мной в [Telegram][telegram], сбрасывая свой **gmail**
 4. В течении 1-2 часов вам откроется доступ ко всему закрытому контенту
 5. **В ближайший год** вам будeт доступ не только закрытый контент, но так же, у вас будет ранний доступ ко всем новым курсам и видеокастам (вся информация будет “прилетать” на почту).
-
----
-
-### Варианты оплаты:
-
-#### 1. Перевести крипту используя BestChange:
-Вам **не нужен** ни криптокошелёк, ни криптовалюта, ни особые знания в этом.
-Это просто обычный перевод через сервис BestChange ([как использовать сервис](https://youtu.be/hgx0IScTiQM)).
 
 **Основные шаги:**
 1. Перейти на сервис [Bestchange.ru](https://www.bestchange.ru);
@@ -39,7 +44,7 @@
 
 ---
 
-#### 2. Перевести крипту используя Binance:
+#### 3. Перевести крипту используя Binance:
 Если у вас уже есть аккаунт на бирже Binance, то перевод можно выполнить через внутренний сервис **Pay ID**.
 
 Pay ID для перевода: **105019993**
@@ -50,10 +55,6 @@ Pay ID для перевода: **105019993**
 [<img alt="webDev | Telegram" src="https://img.shields.io/badge/telegram-229ED9.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />][telegram]
 [<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][vk]
 
-[instagram]: https://instagram.com/YauhenKavalchuk
 [vk]: https://vk.com/YauhenKavalchuk
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
-[patreon]: https://www.patreon.com/YauhenKavalchuk
 [telegram]: http://t.me/yauhenkavalchuk
-[button]: https://github.com/YauhenKavalchuk/youtube/blob/main/instruction.md
-
