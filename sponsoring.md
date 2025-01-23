@@ -10,12 +10,7 @@
 
 ---
 
-#### 2. Стать Patreon-спонсором:
-[Перейдите по ссылке][patreon] и станьте патроном уровня **"Student"**, **"Junior"**, **"Middle"** или **"Senior"**.
-
----
-
-#### 3. Перевести крипту используя BestChange:
+#### 2. Перевести крипту используя BestChange:
 Вам **не нужен** ни криптокошелёк, ни криптовалюта, ни особые знания в этом.
 Это просто обычный перевод через сервис BestChange ([как использовать сервис](https://youtu.be/hgx0IScTiQM)).
 
@@ -40,7 +35,7 @@
 
 ---
 
-#### 4. Перевести крипту используя Binance:
+#### 3. Перевести крипту используя Binance:
 Если у вас уже есть аккаунт на бирже Binance, то перевод можно выполнить через внутренний сервис **Pay ID**.
 
 Pay ID для перевода: **105019993**
@@ -53,6 +48,5 @@ Pay ID для перевода: **105019993**
 
 [vk]: https://vk.com/YauhenKavalchuk
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
-[patreon]: https://www.patreon.com/YauhenKavalchuk
 [telegram]: http://t.me/yauhenkavalchuk
 [button]: https://github.com/YauhenKavalchuk/youtube/blob/main/instruction.md
