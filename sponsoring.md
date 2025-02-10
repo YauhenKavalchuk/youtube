@@ -1,12 +1,14 @@
 # Поддержать канал
 
-Для того, что бы поддержать канал, можно воспользоваться одним из вариантов описанных ниже.
+Любая поддержка с вашей стороны мотивирует на создание нового и интересного контента, а так же на дальнейшее развитие канала.
+Поддержать можно воспользовавшись одним из описанных ниже вариантов.
 
 ---
 
 #### 1. Стать YouTube-спонсором:
-[Перейдите по ссылке][sponsor] и станьте спонсором уровня **"Student"**, **"Junior"**, **"Middle"** или **"Senior"**.
-О кнопке ["Спонсировать"][button]. Если вы **не видите кнопку**, значит данная функция **не доступна** в вашем регионе.
+[Перейдите по ссылке][sponsor] и станьте спонсором уровня **"Student"**, **"Junior"**, **"Middle"**, **"Senior"**, или **"Lead"** (босусом вы получите доступ к закрытому контенту).
+
+ВАЖНО: Если на главной странице канала вы не видите кнопки "Стать спонсором", значит данная функция не доступна в вашем регионе (как вариант, можно воспользоваться VPN).
 
 ---
 
@@ -35,13 +37,6 @@
 
 ---
 
-#### 3. Перевести крипту используя Binance:
-Если у вас уже есть аккаунт на бирже Binance, то перевод можно выполнить через внутренний сервис **Pay ID**.
-
-Pay ID для перевода: **105019993**
-
----
-
 ### Связаться со мной:
 [<img alt="webDev | Telegram" src="https://img.shields.io/badge/telegram-229ED9.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />][telegram]
 [<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][vk]
@@ -49,4 +44,3 @@ Pay ID для перевода: **105019993**
 [vk]: https://vk.com/YauhenKavalchuk
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
 [telegram]: http://t.me/yauhenkavalchuk
-[button]: https://github.com/YauhenKavalchuk/youtube/blob/main/instruction.md
