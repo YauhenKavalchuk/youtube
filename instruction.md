@@ -52,8 +52,6 @@ Pay ID для перевода: **105019993**
 
 ### Связаться со мной:
 [<img alt="webDev | Telegram" src="https://img.shields.io/badge/telegram-229ED9.svg?&style=for-the-badge&logo=Telegram&logoColor=white" />][telegram]
-[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][vk]
 
-[vk]: https://vk.com/YauhenKavalchuk
 [sponsor]: https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join
 [telegram]: http://t.me/yauhenkavalchuk
